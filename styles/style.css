@@ -1,0 +1,13 @@
+header{
+	background-color: #57c752;
+}
+body{
+	position: relative;
+	width: 1440px;
+	height: 1024px;
+
+	background: #FFC09B;
+}
+p{
+	font-family: 'Raleway', sans-serif;
+}
