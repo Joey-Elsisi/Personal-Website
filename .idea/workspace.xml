@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4bf96d-efb8-4215-845d-8a341529de49" name="Default Changelist" comment="Testing out git in Webstorm">
-      <change afterPath="$PROJECT_DIR$/styles/resume.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gittest.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,17 +63,24 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Developer\Personal-Website" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="38fc107f-c11d-4853-8e10-8a9f45b9f744" name="Default Changelist" comment="" />
+      <changelist id="2f4bf96d-efb8-4215-845d-8a341529de49" name="Default Changelist" comment="Testing out git in Webstorm" />
       <created>1606149251860</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606149251860</updated>
       <workItem from="1606149253022" duration="3372000" />
+      <workItem from="1606679014331" duration="3051000" />
     </task>
     <task id="LOCAL-00001" summary="Testing git in Webstorm">
       <created>1606321566597</created>
@@ -99,6 +105,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testing out git in Webstorm" />
@@ -106,10 +113,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Testing git in Webstorm" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-894" y="422" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606693435664">
+      <screen x="-1280" y="64" width="1280" height="1024" />
+    </state>
+    <state x="-894" y="422" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1280.64.1280.1024/0.0.1920.1080@-1280.64.1280.1024" timestamp="1606693435664" />
     <state x="-1188" y="156" width="1096" height="840" key="DiffContextDialog" timestamp="1606321601191">
       <screen x="-1280" y="64" width="1280" height="1024" />
     </state>
     <state x="-1188" y="156" width="1096" height="840" key="DiffContextDialog/-1280.64.1280.1024/0.0.1920.1080@-1280.64.1280.1024" timestamp="1606321601191" />
+    <state x="-810" y="195" key="RollbackChangesDialog" timestamp="1606693486841">
+      <screen x="-1280" y="64" width="1280" height="1024" />
+    </state>
+    <state x="-810" y="195" key="RollbackChangesDialog/-1280.64.1280.1024/0.0.1920.1080@-1280.64.1280.1024" timestamp="1606693486841" />
     <state x="-824" y="489" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606321291076">
       <screen x="-1280" y="64" width="1280" height="1024" />
     </state>
