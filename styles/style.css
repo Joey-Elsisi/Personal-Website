@@ -1,6 +1,31 @@
 #happy{
 	cursor: url("../images/minecraft-sword.png"), auto;
 }
+span{
+	font-weight: bold;
+	font-size: xx-large;
+}
+span[lang="zh"] {
+	margin-left: 90px;
+}
+span[lang="ja"] {
+	margin-left: 33px;
+}
+span[lang="pa"] {
+	margin-left: 75px;
+}
+span[lang="ko"] {
+	margin-left: 70px;
+}
+span[lang="ru"] {
+	margin-left: 37px;
+}
+span[lang="he"] {
+	margin-left: 142px;
+}
+.second{
+	display: inline;
+}
 header{
 	background-color: #57c752;
 }
