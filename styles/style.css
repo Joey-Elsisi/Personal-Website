@@ -1,62 +1,93 @@
-#happy{
-	cursor: url("../images/minecraft-sword.png"), auto;
+#happy {
+  cursor: url("../images/minecraft-sword.png"), auto;
 }
-span{
-	font-weight: bold;
-	font-size: xx-large;
+
+div {
+  font-weight: bold;
+  font-size: xx-large;
+  display: inline-block;
 }
+
+span {
+  font-weight: bold;
+  font-size: xx-large;
+  margin-bottom: 10px;
+}
+
 span[lang="zh"] {
-	margin-left: 90px;
+  padding-inline: 90px;
 }
+
 span[lang="ja"] {
-	margin-left: 33px;
+  padding-inline: 33px;
 }
+
 span[lang="pa"] {
-	margin-left: 75px;
+  padding-inline: 75px;
 }
+
 span[lang="ko"] {
-	margin-left: 70px;
+  padding-inline: 70px;
 }
+
 span[lang="ru"] {
-	margin-left: 37px;
+  padding-inline: 37px;
 }
+
 span[lang="he"] {
-	margin-left: 142px;
+  padding-inline: 142px;
 }
-.second{
-	display: inline;
-}
-header{
-	background-color: #57c752;
-}
-body{
-	position: relative;
-	width: 1440px;
-	height: 1024px;
 
-	background: #FFC09B;
+.second {
+  display: inline;
 }
-p{
-	font-family: 'Raleway', sans-serif;
+
+header {
+  background-color: #57c752;
 }
+
+/*	Potential colors
+	background-color: hsla(174, 77%, 31%, .9);
+	background-color: hsl(360, 37%, 58%);
+
+*/
+body {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background: #ffc09b;
+}
+
+#description {
+  inline-size: 500px;
+}
+
+p {
+  font-family: "Raleway", sans-serif;
+}
+
 .tv {
-	cursor:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAACVBMVEX///8AAAD///9+749PAAAAAXRSTlMAQObYZgAAAEZJREFUeAGt0EEKgDAUA1En9z+0qEENhA+FvlUZQqE9Bnynlmlr2iVkSY66AHrg+MddSUiU6VuxqMhYquzcCvO6PZjhx5oTQ+8Bs3EshqIAAAAASUVORK5CYII=),auto;
+  cursor: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAACVBMVEX///8AAAD///9+749PAAAAAXRSTlMAQObYZgAAAEZJREFUeAGt0EEKgDAUA1En9z+0qEENhA+FvlUZQqE9Bnynlmlr2iVkSY66AHrg+MddSUiU6VuxqMhYquzcCvO6PZjhx5oTQ+8Bs3EshqIAAAAASUVORK5CYII=),
+    auto;
 }
-li{
-	list-style-type: circle;
+
+li {
+  list-style-type: circle;
 }
+
 a:visited {
-	color: purple;
+  color: purple;
 }
+
 a:link {
-	color: red;
-}
-a:hover{
-	color: red;
-	text-decoration: none;
+  color: red;
 }
 
-body{
-	display: block;
+a:hover {
+  color: red;
+  text-decoration: none;
+}
 
+body {
+  display: block;
 }
