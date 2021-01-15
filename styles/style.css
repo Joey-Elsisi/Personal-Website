@@ -13,15 +13,23 @@ a {
   font-size: 2.4rem;
 }
 
+#welcome {
+  width: 90vw;
+  height: 82vh;
+}
+
 div {
   font-weight: bold;
-  font-size: 4.1rem;
+  /*font-size: 8.1rem;*/
+  font-size: 5vw;
   display: inline-block;
 }
 
 span {
   font-weight: bold;
-  font-size: 4rem;
+  font-size: 5vw;
+  /*font-size: 8rem;*/
+  /*font-size: 33%;*/
   margin-bottom: 10px;
 }
 
