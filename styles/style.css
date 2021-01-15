@@ -1,7 +1,12 @@
-#happy {
-  cursor: url("../images/minecraft-sword.png"), auto;
+/*text styles*/
+
+html {
+  font-family: "Raleway", sans-serif;
 }
 
+#resume {
+  font-family: serif;
+}
 div {
   font-weight: bold;
   font-size: xx-large;
@@ -38,45 +43,20 @@ span[lang="he"] {
   padding-inline: 142px;
 }
 
-.second {
-  display: inline;
-}
-
-header {
-  background-color: #57c752;
-}
-
-/*	Potential colors
-	background-color: hsla(174, 77%, 31%, .9);
-	background-color: hsl(360, 37%, 58%);
-
-*/
-body {
-  position: relative;
-  width: 1440px;
-  height: 1024px;
-  background: #ffc09b;
-}
-
 #description {
-  inline-size: 500px;
-}
-
-p {
-  font-family: "Raleway", sans-serif;
-}
-
-.tv {
-  cursor: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAACVBMVEX///8AAAD///9+749PAAAAAXRSTlMAQObYZgAAAEZJREFUeAGt0EEKgDAUA1En9z+0qEENhA+FvlUZQqE9Bnynlmlr2iVkSY66AHrg+MddSUiU6VuxqMhYquzcCvO6PZjhx5oTQ+8Bs3EshqIAAAAASUVORK5CYII=),
-    auto;
+  inline-size: 50vw;
+  font-size: 2vw;
 }
 
 li {
   list-style-type: circle;
+  width: 90vw;
 }
-.image {
-  display: inline-block;
+.second {
+  display: inline;
 }
+/* Link styles */
+
 a:visited {
   color: purple;
 }
@@ -90,6 +70,24 @@ a:hover {
   text-decoration: none;
 }
 
+/* body styles */
+
+header {
+  background-color: #57c752;
+}
+
+/*	Potential colors
+	background-color: hsla(174, 77%, 31%, .9);
+	background-color: hsl(360, 37%, 58%);
+
+*/
 body {
+  position: relative;
+  width: 100vw;
+  background: #ffc09b;
+}
+
+.image {
   display: block;
+  width: 50vw;
 }
