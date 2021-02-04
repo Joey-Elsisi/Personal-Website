@@ -3,6 +3,7 @@
 html {
   font-family: "Raleway", sans-serif;
   font-size: 10px;
+  color: #06031c;
 }
 h1 {
   font-size: 3.8rem;
@@ -19,6 +20,7 @@ a {
 #welcome {
   width: 90vw;
   height: 82vh;
+  color: #06031c;
 }
 .container {
   display: grid;
