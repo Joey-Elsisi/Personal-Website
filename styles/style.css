@@ -65,9 +65,9 @@ span[lang="ko"] {
   padding-inline: 70px;
 }
 */
-span[lang="ru"] {
-  /*padding-inline: 37px;*/
-}
+/*span[lang="ru"] {*/
+/*  !*padding-inline: 37px;*!*/
+/*}*/
 
 /*span[lang="he"] {
   padding-inline: 142px;
@@ -116,7 +116,7 @@ header {
   width: 100vw;
   display: block;
   /*position: fixed;*/
-  background: #f2dfce;
+  background: #d8b5a9;
 }
 
 /*	Potential colors
@@ -127,7 +127,7 @@ header {
 body {
   position: relative;
   width: 100vw;
-  background-color: #fff1e5;
+  background-color: #e3c7b7;
 }
 
 /*.top {*/
