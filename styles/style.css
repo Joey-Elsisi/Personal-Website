@@ -1,4 +1,11 @@
 /*text styles*/
+span[lang]:hover {
+  -webkit-text-stroke: 6px black;
+  -webkit-text-fill-color: transparent;
+}
+/*span[lang="zh"]:hover {*/
+/*  background-color: #006466;*/
+/*}*/
 
 html {
   font-family: "Raleway", sans-serif;
