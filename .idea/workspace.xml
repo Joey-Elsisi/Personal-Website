@@ -22,11 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f8e46be-c3ac-4665-9133-9cfe7c566279" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="0f8e46be-c3ac-4665-9133-9cfe7c566279" name="Default Changelist" comment="changed front page language choice for formatting" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,8 +93,16 @@
       <workItem from="1612448652631" duration="7501000" />
       <workItem from="1612605134952" duration="4000" />
       <workItem from="1613124128509" duration="138000" />
-      <workItem from="1624993243511" duration="538000" />
+      <workItem from="1624993243511" duration="878000" />
     </task>
+    <task id="LOCAL-00001" summary="changed front page language choice for formatting">
+      <created>1624996781597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624996781597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +122,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="changed front page language choice for formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed front page language choice for formatting" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
