@@ -21,6 +21,7 @@ a {
   width: 90vw;
   height: 82vh;
   color: #06031c;
+  margin-block: 8px;
 }
 .container {
   display: grid;
@@ -95,7 +96,7 @@ li {
 /* Link styles */
 
 a:visited {
-  color: purple;
+  color: darkslateblue;
 }
 
 a:link {

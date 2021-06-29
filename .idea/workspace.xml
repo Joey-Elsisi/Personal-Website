@@ -23,6 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f8e46be-c3ac-4665-9133-9cfe7c566279" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +55,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="full.screen.before.presentation.mode" value="true" />
@@ -91,7 +94,10 @@
       <workItem from="1610728309430" duration="10004000" />
       <workItem from="1611358585222" duration="1604000" />
       <workItem from="1611399436861" duration="1525000" />
-      <workItem from="1612448652631" duration="5908000" />
+      <workItem from="1612448652631" duration="7501000" />
+      <workItem from="1612605134952" duration="4000" />
+      <workItem from="1613124128509" duration="138000" />
+      <workItem from="1624993243511" duration="538000" />
     </task>
     <servers />
   </component>
